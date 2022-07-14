@@ -1,5 +1,5 @@
  <h1 align="center">Acessibilidade-web-front-end</h1>
- <p align="center">O curso da alura focou no melhoramento das tegs para pessoas PcD</p>
+ <p align="center">O curso da alura focou no melhoramento das tegs para PcD</p>
 
 ![home](https://user-images.githubusercontent.com/90348798/178896140-b4351d0e-dcbf-4cf2-81dd-6602ade5f0c7.png)
 
